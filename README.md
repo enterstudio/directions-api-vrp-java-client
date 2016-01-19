@@ -41,7 +41,7 @@ java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate -i
 
 The other parts of the API are currently covered in a [separate repository](https://github.com/graphhopper/directions-api-java-client) (for Java). 
 
-Clients in other languages are listed [here](https://github.com/graphhopper/directions-api/blob/master/README.md#api-clients-and-examples).
+Clients in other languages are listed [here](https://graphhopper.com/api/1/docs/#api-clients-and-examples).
 
 ## License
 
