@@ -12,7 +12,7 @@
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>9</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
         
     <properties>
@@ -64,7 +64,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.datatype</groupId>
             <artifactId>jackson-datatype-joda</artifactId>
-            <version>2.1.5</version>
+            <version>2.9.5</version>
         </dependency>   
         <dependency>
             <groupId>joda-time</groupId>
